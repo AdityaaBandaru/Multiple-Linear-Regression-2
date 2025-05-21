@@ -1,0 +1,11 @@
+﻿ID,Area (sq ft),Bedrooms,Location,Age (Years),Garage,Price (USD)
+1,2100,3,Downtown,10,Yes,500000
+2,1600,2,Suburb,5,No,320000
+3,2400,4,Downtown,15,Yes,610000
+4,,3,Uptown,7,No,410000
+5,1800,,Suburb,8,Yes,390000
+6,2000,3,Downtown,,Yes,480000
+7,1700,2,Uptown,6,No,350000
+8,2500,4,Suburb,12,Yes,570000
+9,1400,2,Downtown,4,,310000
+10,2200,3,Uptown,11,Yes,
